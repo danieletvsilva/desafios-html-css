@@ -7,8 +7,7 @@
 body,
 input,
 select,
-textarea
-{
+textarea {
   font-family: "Poppins", sans-serif;
 }
 
@@ -212,7 +211,7 @@ footer .button {
   border: 0;
   border-radius: 8px;
 
-  font-family: 'Archivo';
+  font-family: "Archivo";
   font-weight: 600;
   font-size: 16px;
   line-height: 26px;
@@ -220,10 +219,10 @@ footer .button {
   color: #ffffff;
 }
 
-footer .button:hover{
+footer .button:hover {
   background: #08a04c;
 }
 
-input:invalid{
+input:invalid {
   border: 1px solid rgba(255, 0, 0, 0.458);
 }
